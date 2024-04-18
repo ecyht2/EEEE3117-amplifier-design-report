@@ -1,6 +1,6 @@
-# Nottingham-Report-Template
+# EEEE3117-amplifier-design-report 
 
-Template for Coursework Reports for University of Nottingham Malaysia
+The report for EEEE3117 Amplifier Design coursework
 
 ## Requirements
 
