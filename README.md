@@ -1,6 +1,8 @@
 # EEEE3117-amplifier-design-report 
 
-The report for EEEE3117 Amplifier Design coursework
+The report for EEEE3117 Amplifier Design coursework. 
+This is the report for this coursework.
+For the scripts and simulation, check out this [repository](https://github.com/ecyht2/EEEE3117-amplifier-design)
 
 ## Requirements
 
