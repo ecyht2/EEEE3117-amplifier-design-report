@@ -1,2 +1,5 @@
 {
+    "ltex.completionEnabled": true,
+    "ltex.language": "en-GB",
+    "ltex.additionalRules.enablePickyRules": true
 }
