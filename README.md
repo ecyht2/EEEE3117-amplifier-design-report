@@ -11,6 +11,12 @@ Engine: pdfLaTeX
 ### Packages
 
 - graphicx
+- pdfpages
+- biblatex
+- float
+- siunitx
+- circuitikz
+- tikz
 
 ## Usage
 
